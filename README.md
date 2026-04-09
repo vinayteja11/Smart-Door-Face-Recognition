@@ -4,11 +4,11 @@ You can copy and paste the entire block below directly into your GitHub `README.
 
 ---
 
-# 🚪 Smart Door: Real-Time Face Recognition & Gender Detection
+#  Smart Door: Real-Time Face Recognition & Gender Detection
 
 This is an automated security system built using a **Raspberry Pi 4** that uses computer vision to identify authorized faces and detect gender before granting access via an electronic **12V Solenoid Lock**.
 
-## 🌟 Key Features
+## Key Features
 * **Real-Time Face Recognition:** Identifies authorized users with high accuracy using OpenCV.
 * **Gender Classification:** Analyzes facial features to identify gender in real-time.
 * **Automated Entry Control:** Triggers a 12V Solenoid lock using an L298N Motor Driver.
@@ -17,7 +17,7 @@ This is an automated security system built using a **Raspberry Pi 4** that uses 
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 The following diagram represents the logical flow of the system, from the camera input to the physical unlocking of the door.
 
@@ -47,7 +47,7 @@ graph TD
 
 ---
 
-## 🛠️ Hardware Requirements
+##  Hardware Requirements
 
 |     Component         |         Specification         |         Purpose                         |
 
@@ -60,7 +60,7 @@ graph TD
 
 ---
 
-## 💻 Software Stack
+##  Software Stack
 * **OS:** Raspberry Pi OS Lite (64-bit)
 * **Language:** Python 3.x
 * **Libraries:** * `OpenCV` (Image processing)
@@ -70,7 +70,7 @@ graph TD
 
 ---
 
-## 🔌 Wiring Diagram
+##  Wiring Diagram
 
 To ensure safe operation and protect the Raspberry Pi from high voltage, the following pin configuration is used:
 
@@ -84,7 +84,7 @@ To ensure safe operation and protect the Raspberry Pi from high voltage, the fol
 
 ---
 
-## 🚀 Installation & Usage
+##  Installation & Usage
 
 1.  **Clone the Repository:**
     ```bash
@@ -104,7 +104,7 @@ To ensure safe operation and protect the Raspberry Pi from high voltage, the fol
 
 ---
 
-## 👤 Author
+##  Author
 **Vinay Teja** *B.Tech Final Year Student | AIML Branch* *Hyderabad, Telangana*
 
 ---
