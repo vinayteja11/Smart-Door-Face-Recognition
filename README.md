@@ -108,12 +108,3 @@ To ensure safe operation and protect the Raspberry Pi from high voltage, the fol
 **Vinay Teja** *B.Tech Final Year Student | AIML Branch* *Hyderabad, Telangana*
 
 ---
-
-### **How to add this to your GitHub:**
-1.  Go to your repository on GitHub.
-2.  Click **Add file** > **Create new file**.
-3.  Name it `README.md`.
-4.  Paste the text above into the editor.
-5.  Click **Commit changes**.
-
-Does this description cover everything you wanted for your project, or should I add a section about the specific AI models you used?
